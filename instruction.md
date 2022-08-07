@@ -7,6 +7,8 @@ instruction in the folder
 
 
 ## list
-* ine
+* one
 * two
 * three
+
+## picture
