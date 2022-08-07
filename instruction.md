@@ -7,6 +7,12 @@ instruction in the folder
 
 
 ## list
-* ine
+* one
 * two
 * three
+
+## picture
+
+This is orange
+
+![orange](orange.png)
