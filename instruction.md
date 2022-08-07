@@ -12,3 +12,6 @@ instruction in the folder
 * three
 
 ## picture
+
+This is orange
+![orange](orange.png)
